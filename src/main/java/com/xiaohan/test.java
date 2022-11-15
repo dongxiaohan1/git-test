@@ -7,5 +7,6 @@ public class test {
         System.out.println("hello github");
         System.out.println("hello gitee");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
