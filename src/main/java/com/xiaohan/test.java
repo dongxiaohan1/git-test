@@ -5,5 +5,6 @@ public class test {
         System.out.println("hello dongxiaohan");
         System.out.println("hello git");
         System.out.println("hello github");
+        System.out.println("hello gitee");
     }
 }
