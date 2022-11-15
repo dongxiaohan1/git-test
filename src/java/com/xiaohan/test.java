@@ -1,4 +1,4 @@
-package src.java.com.xiaohan;
+package java.com.xiaohan;
 public class test {
     public static void main(String[] args) {
         System.out.println("hello dongxiaohan");
